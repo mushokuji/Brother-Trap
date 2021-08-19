@@ -1,0 +1,33 @@
+{
+  "title": "Brother Trap",
+  "description": "Akari is a young woman who met a younger boy, Izumi, one day at a party after college. Although she finds it hard to forget her ex, she still became friends with Izumi. Will they just stay friends?",
+  "artist": "HINATA Kyou",
+  "author": "HINATA Kyou",
+  "cover": "https://i.imgur.com/NfRB2aP.jpg",
+  "chapters": {
+    "01": {
+      "title": "The Meeting",
+      "volume": "1",
+      "groups": {
+        "Cheesecake Scan": "/proxy/api/mangadex/chapter/5d8f54b7-f23a-4bb0-995a-792e85702588/"
+      },
+      "last_updated": "1604994961"
+    },
+     "02": {
+      "title": "Reunion",
+      "volume": "1",
+      "groups": {
+        "Cheesecake Scan": "/proxy/api/mangadex/chapter/ce2dc93f-0503-4956-8264-ce8c31accd74/"
+      },
+      "last_updated": "1611215761"
+    },
+     "03": {
+      "title": "A Sense of Distance",
+      "volume": "1",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/SbvE5p5/"
+      },
+      "last_updated": "1629358139"
+    }
+  }
+}
