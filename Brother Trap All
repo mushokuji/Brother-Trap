@@ -60,6 +60,14 @@
         "Mushokuji": "/proxy/api/imgur/chapter/BXng6Sl/"
       },
       "last_updated": "1638963433"
+    },
+     "08": {
+      "title": "Reset",
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/HZG8uow/"
+      },
+      "last_updated": "1643013315"
     }
   }
 }
