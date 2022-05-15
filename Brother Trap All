@@ -76,6 +76,14 @@
         "Mushokuji": "/proxy/api/imgur/chapter/NE3dWIG/"
       },
       "last_updated": "1647763615"
+    },
+     "10": {
+      "title": "Moving Forward",
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/vrUG9Qu/"
+      },
+      "last_updated": "1652597885"
     }
   }
 }
