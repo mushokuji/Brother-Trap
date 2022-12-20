@@ -108,6 +108,14 @@
         "Mushokuji": "/proxy/api/imgur/chapter/ElqUFEU/" 
       },
       "last_updated": "1671398425"
+    },
+     "13.5": {
+      "title": "Volume 2 Specials",
+      "volume": "2",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/qypL8yP/" 
+      },
+      "last_updated": "1671567258"
     }
   }
 }
